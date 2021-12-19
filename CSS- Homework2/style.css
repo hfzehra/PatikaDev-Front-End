@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+.box{
+    background-color: rgb(221, 221, 221);
+    width: 1250px;
+    height: 75px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.lbox1{
+    width: 35%;
+    background-color: #7EE5DA;
+}
+.lbox2{
+    width: 20%;
+    background-color: #70CCC2 ;
+}
+.lbox3{
+    width: 35%;
+    background-color: #62B3AA ;
+}
+
+table{
+    border: 0;
+    width: 90%;
+}
