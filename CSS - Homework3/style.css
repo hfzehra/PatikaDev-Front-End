@@ -1,0 +1,97 @@
+*{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#div1{
+    height: 30px;
+    width: 100%; 
+    padding: 15px;
+}
+.box{
+    width: 600px;
+    height: 50px;
+    border-style: double;
+    border-radius: 20ch;
+    border-color: rgb(231, 231, 231);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.little-box1{
+    border-radius: 5px;
+    border-style: inherit;
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    background-color: rgb(209, 209, 209); 
+    color: rgb(65, 65, 65);
+    font-size: 14px;
+}
+
+.little-box2{
+    border-radius: 5px;
+    border-style: inherit;
+    text-align: center;
+    height: 30px;
+    width: 200px;
+    font-size: 14px;
+    background-color: rgb(209, 209, 209); 
+    color: rgb(65, 65, 65);
+
+}
+.div2 {
+    margin: 0px auto ;
+    text-align: center;
+    width: 1330px; 
+    height: 500px;
+    padding-top: 70px ;
+}
+.right{
+    vertical-align: middle;
+    float:right;
+    text-align: right;
+    width: 550px;
+    height: 30px;
+    padding: 15px;
+}
+
+.left{
+    vertical-align: middle;
+    float:left;
+    width: 550px;
+    height: 30px;
+    padding: 15px;
+}
+
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 100%;
+}
+  
+.icon {
+    padding: 15px;
+    min-width: 30px;
+    height: 30px;
+}
+.icon2 {
+    padding: 15px;
+    min-width: 30px;
+    height: 30px;
+    margin: 0px 0px 0px -60px; 
+}
+a{
+    text-decoration: none ;
+    margin-left: 5px;
+    font-size: 14px;
+}
+button{
+    background-color: rgb(62, 139, 211);
+    margin-left: 15px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    color:white;
+    border-color:  rgb(62, 139, 211);
+}
